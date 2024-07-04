@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Poppins Light";
+    src: url("Poppins/Poppins-Light.ttf");
+  }
+
 body {
     margin: 0%;
     padding: 0%;
