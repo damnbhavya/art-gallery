@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Poppins Light";
-    src: url("Poppins/Poppins-Light.ttf");
+    src: url("../art-gallery/Poppins/Poppins-Light.ttf");
   }
 
 body {
@@ -15,7 +15,7 @@ body::before {
     left: 0%;
     width: 100%;
     height: 100%;
-    background-image: url('bg2.jpg');
+    background-image: url('bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
