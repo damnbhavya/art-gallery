@@ -82,6 +82,12 @@ body::before {
   text-shadow: 0 4% 20% #0000004d;
 }
 
+.navlink {
+  text-decoration: none;
+  color: #000000;
+
+}
+
 .display {
   display: flex;
   flex-direction: row;
