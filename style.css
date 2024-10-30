@@ -1,11 +1,7 @@
-/* @font-face {
-  font-family: "Poppins Light";
-  src: url("../art-gallery/Poppins/Poppins-Light.ttf");
-} */
-
 body {
   font: Poppins;
 }
+
 body {
   margin: 0%;
   padding: 0%;
